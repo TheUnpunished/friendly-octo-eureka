@@ -1,0 +1,5 @@
+*.*
+!*.l
+!*.y
+!README.md
+!.gitignore
